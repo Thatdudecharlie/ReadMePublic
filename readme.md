@@ -29,7 +29,7 @@ This is an image of how I *currently* feel trying to work all of this out, the a
 
 This is a list of things I enjoy
 
-*  Cars
+*  old Cars
 *  Cheerleading
 * Luigi's mansion
 
