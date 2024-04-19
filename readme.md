@@ -3,14 +3,23 @@
 ## This is my subheading
 
 **This is bold**
+
 *This is italic*
+
 ~~this is a mistake~~
+
 **This is just bold *but this is also italic* and this is just bold again**
+
 ***This is bold and italic***
+
 *This is just italic **but this is also bold** and this is just italic again*
+
 This is <sub>Subscript</sub>
+
 This is <sup>Superscript</sup>
+
 <sub>This</sub><sup>is</sup><sub>a</sub><sup>Headache</sup>
+
 >This is a quote
 
 The code you need to use is `git status` and I've quoted it in this line of text
@@ -29,23 +38,24 @@ This is an image of how I *currently* feel trying to work all of this out, the a
 
 This is a list of things I enjoy
 
-*  old Cars
-*  Cheerleading
+* old Cars
+* Cheerleading
 * Luigi's mansion
 
 This is a list of my top 3 pets
 
 * 1. Louie
-* 2. Patch   
+* 2. Patch
 * 3. Fluffy *gone but never forgotten*
- 
+
 * This
-  * is 
+  * is
     * a  
       * Nested
         * List
   
 This is a tasklist  
+
 * [x] Finish mark up page  
 * [ ] Push to Github
 * [ ] Show Brother
@@ -60,7 +70,6 @@ This is a footnote about mario[^2].
 [^2]: He is red
   and is the main character
 
-
 > [!NOTE]
 > Note
 
@@ -74,4 +83,4 @@ This is a footnote about mario[^2].
 > Warning
 
 > [!CAUTION]
-> Caution 
+> Caution
